@@ -1,4 +1,4 @@
-#NPT - New Protection Technology
+# NPT - New Protection Technology
 NPT는 Windows 바탕화면에 npt-protection 이라는 보호 디렉터리를 만들어 프라이버시를 보호합니다.
 내부 데이터는 암호화되지 않으나, 일반사람들은 쉽게 접근할 수 없습니다.
 숨긴파일 보기를 활성화 하여도 보이지 않습니다. NPT 잠금해제를 통해 보이게 할 수 있습니다.
@@ -7,8 +7,8 @@ NPT는 Windows 바탕화면에 npt-protection 이라는 보호 디렉터리를 �
 2018년 8월 9일 업데이트로 설치프로그램에서 패스워드를 만들고 Path 환경변수에 라이브러리를 등록하는것이 자동화되었습니다.
 
 명령어:
-npt lock - 잠금해제된 보호디렉터리를 잠금
-npt unlock - 잠긴 보호 디렉터리를 잠금해제함
-npt genkey - 도구를 이용하여 보호 디렉터리를 삭제한 후 새 보호 디렉터리를 만듬
-npt delete - 보호 디렉터리를 삭제할때 사용, 패스워드 컨테이까지 함께 삭제
-npt version - NPT 버전을 읽어냄
+- npt lock - 잠금해제된 보호디렉터리를 잠금
+- npt unlock - 잠긴 보호 디렉터리를 잠금해제함
+- npt genkey - 도구를 이용하여 보호 디렉터리를 삭제한 후 새 보호 디렉터리를 만듬
+- npt delete - 보호 디렉터리를 삭제할때 사용, 패스워드 컨테이까지 함께 삭제
+- npt version - NPT 버전을 읽어냄
